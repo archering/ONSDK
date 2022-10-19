@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_ic_route_result_traffic_light_normal.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_ic_route_result_traffic_light_normal.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_onsdk_fragment_light_navi.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/onsdk_fragment_light_navi.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_drawable_common_bg_pressed_mask.9.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_pressed_mask.9.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_nsdk_layout_route_sort_background.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/nsdk_layout_route_sort_background.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_nsdk_drawable_route_sort_distance_first_normal.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/nsdk_drawable_route_sort_distance_first_normal.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_activity_cruiser.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/activity_cruiser.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_onsdk_fragment_poisearch.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/onsdk_fragment_poisearch.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/color_bnav_text_selector.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/color/bnav_text_selector.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_fragment_route_result.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/fragment_route_result.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/color_bnav_traffic_info_color_selector.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/color/bnav_traffic_info_color_selector.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_control_itemview.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/control_itemview.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/color_bnav_setting_btn_text_selector.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/color/bnav_setting_btn_text_selector.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_drawable_route_sort_road_first_selected.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_drawable_route_sort_road_first_selected.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_bnav_tv_background.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/bnav_tv_background.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_onsdk_ordercenter_item_item.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/onsdk_ordercenter_item_item.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_nsdk_drawable_route_sort_avoid_traffic_jam_selected.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/nsdk_drawable_route_sort_avoid_traffic_jam_selected.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_mapview_addview.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/mapview_addview.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_nsdk_drawable_route_sort_time_first_normal.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/nsdk_drawable_route_sort_time_first_normal.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_drawable_route_sort_distance_first_selected.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_drawable_route_sort_distance_first_selected.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_activity_driving.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/activity_driving.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_drawable_route_sort_notoll_selected.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_drawable_route_sort_notoll_selected.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_navi_guide_turn.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/navi_guide_turn.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_item_route_result_tab.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/item_route_result_tab.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_dialog_pop_prefer.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/dialog_pop_prefer.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_bnav_setting_btn_bg_selector.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/bnav_setting_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_activity_node.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/activity_node.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_bnav_setting_during_divider_medium.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/bnav_setting_during_divider_medium.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_bnav_traffic_light_selector.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/bnav_traffic_light_selector.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_item_route_detail.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/item_route_detail.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_onsdk_fragment_light_navi_result.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/onsdk_fragment_light_navi_result.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_activity_navi.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/activity_navi.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_activity_setting.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_fragment_route_result_future.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/fragment_route_result_future.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_route_sort_setting_title_icon.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_route_sort_setting_title_icon.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_drawable_route_sort_road_first_normal.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_drawable_route_sort_road_first_normal.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_item_prefer.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/item_prefer.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_drawable_route_sort_avoid_traffic_jam_normal.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_drawable_route_sort_avoid_traffic_jam_normal.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_activity_demo_fragment.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/activity_demo_fragment.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_onsdk_activity_light_navi.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/onsdk_activity_light_navi.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nav_settings_divider_line.9.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nav_settings_divider_line.9.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_ic_route_result_traffic_light_select.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_ic_route_result_traffic_light_select.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_drawable_route_sort_default_selected.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_drawable_route_sort_default_selected.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_bnav_bt_pressed_bg.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/bnav_bt_pressed_bg.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_bnav_shape_du.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/bnav_shape_du.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_item_cameratype.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/item_cameratype.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_bnav_btn_bg_dashline.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/bnav_btn_bg_dashline.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nav_settings_multiline_middle_pressed.9.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nav_settings_multiline_middle_pressed.9.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_activity_analog.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/activity_analog.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nav_settings_multiline_middle_normal.9.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nav_settings_multiline_middle_normal.9.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/color_nsdk_route_result_tab_desc_selector.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/color/nsdk_route_result_tab_desc_selector.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_controlwindow.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/controlwindow.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_dialog_node.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/dialog_node.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_nav_settings_middle_selector.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/nav_settings_middle_selector.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_nsdk_drawable_route_sort_time_first_selected.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/nsdk_drawable_route_sort_time_first_selected.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_guidepopview.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/guidepopview.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_drawable_route_sort_default_normal.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_drawable_route_sort_default_normal.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_drawable_route_sort_nohighway_selected.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_drawable_route_sort_nohighway_selected.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_bnav_driverinfo_bg.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/bnav_driverinfo_bg.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_nsdk_drawable_route_sort_nohighway_normal.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/nsdk_drawable_route_sort_nohighway_normal.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_nsdk_drawable_route_sort_notoll_normal.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable-xhdpi/nsdk_drawable_route_sort_notoll_normal.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/color_nsdk_route_result_tab_time_selector.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/color/nsdk_route_result_tab_time_selector.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi_popup.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-xhdpi/popup.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/drawable_bnav_tab_background.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/drawable/bnav_tab_background.xml"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/res/merged/debug/layout_onsdk_fragment_pro_light_navi.xml.flat",
+        "source": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/res/layout/onsdk_fragment_pro_light_navi.xml"
+    }
+]

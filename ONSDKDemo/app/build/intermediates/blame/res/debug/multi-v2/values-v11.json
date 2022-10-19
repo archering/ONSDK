@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/v_hecong/code/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/v_hecong/.gradle/caches/transforms-2/files-2.1/604e6d8c0d33eef5c594464866c1025d/jetified-onsdk_all/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "188"
+                    }
+                }
+            ]
+        }
+    ]
+}
